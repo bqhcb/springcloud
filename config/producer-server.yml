@@ -1,1 +1,3 @@
-producer-server
+consumer-server-dev.yml
+a:
+  b: 925
